@@ -1,0 +1,27 @@
+:root {
+  /* Brand blue */
+  --color-blue-100: #e3e9f9;
+  --color-blue-200: #b8caf0;
+  --color-blue-accent: #4a7fd4;
+
+  /* Brand green */
+  --color-green-100: #d6f9e9;
+  --color-green-200: #a8f0ce;
+  --color-green-accent: #2ecc8a;
+
+  /* Background */
+  --bg-gradient-main: linear-gradient(135deg, #e3e9f9 0%, #d6f9e9 100%);
+
+  /* Text */
+  --text-primary: #1a2332;
+  --text-secondary: #64748b;
+
+  /* Border */
+  --border-default: #e2e8f0;
+
+  /* Surface style */
+  --surface-bg: #ffffff;
+  --surface-radius: 12px;
+  --surface-border: 1px solid var(--border-default);
+  --surface-shadow: none;
+}
